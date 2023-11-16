@@ -1,0 +1,34 @@
+{
+    "cSpell.language": "en,es-ES",
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "flutter-auto-insert-comma.activationFiles": [
+
+        "dart"
+    ],
+    "auto-insert-comma.activationFiles": [
+
+        "json",
+        "html",
+        "javascript",
+        "typescript",
+        "vue",
+        "javascriptreact",
+        "typescriptreact",
+        "php",
+        "ejs",
+        "jinja",
+        "plaintext",
+        "markdown",
+        "python"
+    ],
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "/myfile"
+            ],
+            "url": "schemaURL"
+        }
+    ],
+    "npm.enableRunFromFolder": true,
+    "npm.exclude": ""
+}
